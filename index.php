@@ -1,1 +1,131 @@
-<script>document.write(decodeURIComponent(escape(atob("PD9waHAKcmVxdWlyZV9vbmNlICdkYi5waHAnOwoKJGdlbmVyYXRlZF9rZXkgPSAiIjsKJHBlc2FuX3N1a3NlcyA9ICIiOwoKaWYgKGlzc2V0KCRfUE9TVFsnZ2VuZXJhdGUnXSkpIHsKICAgICRkdXJhc2lfcGlsaWhhbiA9ICRfUE9TVFsnZHVyYXNpJ107CiAgICAkZHVyYXNpX2RldGlrID0gMDsKICAgIAogICAgLy8gS29udmVyc2kgcGlsaWhhbiBkdXJhc2kga2UgZGFsYW0gc2F0dWFuIGRldGlrCiAgICBzd2l0Y2ggKCRkdXJhc2lfcGlsaWhhbikgewogICAgICAgIGNhc2UgJzVtZW5pdCc6ICAkZHVyYXNpX2RldGlrID0gMzAwOyBicmVhazsKICAgICAgICBjYXNlICcxamFtJzogICAgJGR1cmFzaV9kZXRpayA9IDM2MDA7IGJyZWFrOwogICAgICAgIGNhc2UgJzFoYXJpJzogICAkZHVyYXNpX2RldGlrID0gODY0MDA7IGJyZWFrOwogICAgICAgIGNhc2UgJzFtaW5nZ3UnOiAkZHVyYXNpX2RldGlrID0gNjA0ODAwOyBicmVhazsKICAgICAgICBjYXNlICdwZXJtYW5lbic6JGR1cmFzaV9kZXRpayA9IDk5OTk5OTk5OTsgYnJlYWs7IC8vIEtvZGUgZHVyYXNpIGtodXN1cyBwZXJtYW5lbiBzZWxhbWFueWEKICAgIH0KICAgIAogICAgLy8gTWVtYnVhdCB0b2tlbiBhY2FrIHVuaWsgdW50dWsgTHVhIEh1YgogICAgJGdlbmVyYXRlZF9rZXkgPSAiTFVBSFVCXyIgLiBzdHJ0b3VwcGVyKGJpbjJoZXgocmFuZG9tX2J5dGVzKDYpKSk7CiAgICAkd2FrdHVfc2VrYXJhbmcgPSB0aW1lKCk7CiAgICAKICAgIC8vIFNpbXBhbiBrZSBkYXRhYmFzZSBTUUxpdGUKICAgICRzdG10ID0gJGRiLT5wcmVwYXJlKCJJTlNFUlQgSU5UTyBrZXlzX2RhdGEgKHRva2VuLCBkdXJhdGlvbl9zZWNvbmRzLCBjcmVhdGVkX2F0KSBWQUxVRVMgKDp0b2tlbiwgOmR1cmF0aW9uLCA6Y3JlYXRlZCkiKTsKICAgICRzdG10LT5iaW5kVmFsdWUoJzp0b2tlbicsICRnZW5lcmF0ZWRfa2V5LCBTUUxJVEUzX1RFWFQpOwogICAgJHN0bXQtPmJpbmRWYWx1ZSgnOmR1cmF0aW9uJywgJGR1cmFzaV9kZXRpaywgU1FMSVRFM19JTlRFR0VSKTsKICAgICRzdG10LT5iaW5kVmFsdWUoJzpjcmVhdGVkJywgJHdha3R1X3Nla2FyYW5nLCBTUUxJVEUzX0lOVEVHRVIpOwogICAgJHN0bXQtPmV4ZWN1dGUoKTsKICAgIAogICAgaWYgKCRkdXJhc2lfcGlsaWhhbiA9PSAncGVybWFuZW4nKSB7CiAgICAgICAgJHBlc2FuX3N1a3NlcyA9ICJQZW1iYXlhcmFuIERBTkEgRGl0ZXJpbWEhIEtleSBQZXJtYW5lbiBTZWxhbWFueWEgQWt0aWYuIjsKICAgIH0gZWxzZSB7CiAgICAgICAgJHBlc2FuX3N1a3NlcyA9ICJLZXkgR3JhdGlzIEJlcmhhc2lsIERpYnVhdCEiOwogICAgfQp9Cj8+Cgo8IURPQ1RZUEUgaHRtbD4KPGh0bWwgbGFuZz0iaWQiPgo8aGVhZD4KICAgIDxtZXRhIGNoYXJzZXQ9IlVURi04Ij4KICAgIDxtZXRhIG5hbWU9InZpZXdwb3J0IiBjb250ZW50PSJ3aWR0aD1kZXZpY2Utd2lkdGgsIGluaXRpYWwtc2NhbGU9MS4wIj4KICAgIDx0aXRsZT5MdWEgSHViIFYzIOKAlCBEQU5BIEtleSBTeXN0ZW08L3RpdGxlPgogICAgPGxpbmsgaHJlZj0iaHR0cHM6Ly9jZG4uanNkZWxpdnIubmV0L25wbS9ib290c3RyYXBANS4zLjAvZGlzdC9jc3MvYm9vdHN0cmFwLm1pbi5jc3MiIHJlbD0ic3R5bGVzaGVldCI+CiAgICA8c3R5bGU+CiAgICAgICAgYm9keSB7IGJhY2tncm91bmQtY29sb3I6ICMwZjE3MmE7IGNvbG9yOiAjZjhmYWZjOyBmb250LWZhbWlseTogJ1NlZ29lIFVJJywgc2Fucy1zZXJpZjsgfQogICAgICAgIC5jYXJkIHsgYmFja2dyb3VuZC1jb2xvcjogIzFlMjkzYjsgYm9yZGVyOiAxcHggc29saWQgIzMzNDE1NTsgYm9yZGVyLXJhZGl1czogMTZweDsgfQogICAgICAgIC5mb3JtLXNlbGVjdCwgLmZvcm0tY29udHJvbCwgLmJ0biB7IGJvcmRlci1yYWRpdXM6IDEwcHg7IH0KICAgICAgICAuZGFuYS1jb2xvciB7IGNvbG9yOiAjMTE4ZWVhOyB9CiAgICAgICAgLmJ0bi1kYW5hIHsgYmFja2dyb3VuZC1jb2xvcjogIzExOGVlYTsgY29sb3I6IHdoaXRlOyB9CiAgICAgICAgLmJ0bi1kYW5hOmhvdmVyIHsgYmFja2dyb3VuZC1jb2xvcjogIzBlYTVlOTsgY29sb3I6IHdoaXRlOyB9CiAgICA8L3N0eWxlPgo8L2hlYWQ+Cjxib2R5Pgo8ZGl2IGNsYXNzPSJjb250YWluZXIgcHktNSI+CiAgICA8ZGl2IGNsYXNzPSJyb3cganVzdGlmeS1jb250ZW50LWNlbnRlciI+CiAgICAgICAgPGRpdiBjbGFzcz0iY29sLW1kLTYgdGV4dC1jZW50ZXIgbWItNCI+CiAgICAgICAgICAgIDxoMiBjbGFzcz0iZnctYm9sZCB0ZXh0LWluZm8iPkxVQSBIVUIgPHNwYW4gY2xhc3M9ImRhbmEtY29sb3IiPkRBTkE8L3NwYW4+IFYzPC9oMj4KICAgICAgICAgICAgPHAgY2xhc3M9InRleHQtc2Vjb25kYXJ5Ij5QaWxpaCBkdXJhc2kgZ3JhdGlzIGF0YXUgYmF5YXIgUnAgMTAuMDAwIHVudHVrIHBlcm1hbmVuIHNlbGFtYW55YTwvcD4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2PgoKICAgIDxkaXYgY2xhc3M9InJvdyBqdXN0aWZ5LWNvbnRlbnQtY2VudGVyIj4KICAgICAgICA8ZGl2IGNsYXNzPSJjb2wtbWQtNiI+CiAgICAgICAgICAgIDxkaXYgY2xhc3M9ImNhcmQgcC00IHNoYWRvdy1sZyI+CiAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgIDw/cGhwIGlmICgkZ2VuZXJhdGVkX2tleSk6ID8+CiAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYWxlcnQgYWxlcnQtc3VjY2VzcyB0ZXh0LWNlbnRlciBiZy1zdWNjZXNzIHRleHQtd2hpdGUgYm9yZGVyLTAiPgogICAgICAgICAgICAgICAgICAgICAgICA8aDUgY2xhc3M9ImZ3LWJvbGQiPjw/cGhwIGVjaG8gJHBlc2FuX3N1a3NlczsgPz48L2g1PgogICAgICAgICAgICAgICAgICAgICAgICA8Y29kZSBjbGFzcz0iZnMtNCBkLWJsb2NrIG15LTIgdGV4dC1kYXJrIGJnLWxpZ2h0IHAtMiByb3VuZGVkIGZ3LWJvbGQiIGlkPSJrZXlUb2tlbiI+PD9waHAgZWNobyAkZ2VuZXJhdGVkX2tleTsgPz48L2NvZGU+CiAgICAgICAgICAgICAgICAgICAgICAgIDxzbWFsbD5TYWxpbiBrZXkgZGkgYXRhcyBkYW4gbWFzdWtrYW4ga2Ugc2NyaXB0IFJvYmxveCBrYW11Ljwvc21hbGw+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CiAgICAgICAgICAgICAgICA8P3BocCBlbmRpZjsgPz4KCiAgICAgICAgICAgICAgICA8Zm9ybSBtZXRob2Q9IlBPU1QiIGFjdGlvbj0iIj4KICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJtYi00Ij4KICAgICAgICAgICAgICAgICAgICAgICAgPGxhYmVsIGZvcj0iZHVyYXNpIiBjbGFzcz0iZm9ybS1sYWJlbCBmdy1zZW1pYm9sZCB0ZXh0LWluZm8iPjEuIFBpbGloIER1cmFzaSBBa3Nlczo8L2xhYmVsPgogICAgICAgICAgICAgICAgICAgICAgICA8c2VsZWN0IGNsYXNzPSJmb3JtLXNlbGVjdCBiZy1kYXJrIHRleHQtd2hpdGUgYm9yZGVyLXNlY29uZGFyeSIgaWQ9ImR1cmFzaSIgbmFtZT0iZHVyYXNpIiByZXF1aXJlZCBvbmNoYW5nZT0idG9nZ2xlc2lzdGVtREFOQSh0aGlzLnZhbHVlKSI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSI1bWVuaXQiPlVqaSBDb2JhICg1IE1lbml0KSDigJQgR1JBVElTPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxamFtIj4xIEphbSBBa3NlcyDigJQgR1JBVElTPC9vcHRpb24+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8b3B0aW9uIHZhbHVlPSIxaGFyaSI+MSBIYXJpIEFrc2VzIOKAlCBHUkFUSVM8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9IjFtaW5nZ3UiPjEgTWluZ2d1IEFrc2VzIOKAlCBHUkFUSVM8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxvcHRpb24gdmFsdWU9InBlcm1hbmVuIj5Ba3NlcyBQRVJNQU5FTiDigJQgUnAgMTAuMDAwIChWaWEgREFOQSk8L29wdGlvbj4KICAgICAgICAgICAgICAgICAgICAgICAgPC9zZWxlY3Q+CiAgICAgICAgICAgICAgICAgICAgPC9kaXY+CgogICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgIDxkaXYgaWQ9InBhbmVsLWRhbmEiIGNsYXNzPSJkLW5vbmUgYm9yZGVyIGJvcmRlci1wcmltYXJ5IHAtMyByb3VuZGVkIG1iLTQgYmctYmxhY2sgYmctb3BhY2l0eS0yNSB0ZXh0LWNlbnRlciI+CiAgICAgICAgICAgICAgICAgICAgICAgIDxoNiBjbGFzcz0iZnctYm9sZCB0ZXh0LXdhcm5pbmcgdGV4dC1zdGFydCI+8J+SmSBNZXRvZGUgUGVtYmF5YXJhbiBEQU5BIChScCAxMC4wMDApPC9oNj4KICAgICAgICAgICAgICAgICAgICAgICAgPG9sIGNsYXNzPSJ0ZXh0LXNlY29uZGFyeSBzbWFsbCB0ZXh0LXN0YXJ0IHBzLTMgbWItMyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8bGk+U2lsYWthbiBzY2FuIDxzdHJvbmc+UVIgS29kZSBEQU5BPC9zdHJvbmc+IGRpIGJhd2FoIGluaSBtZW5nZ3VuYWthbiBhcGxpa2FzaSBEQU5BIGF0YXUgRS1XYWxsZXQgbGFpbi48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPlBhc3Rpa2FuIG5vbWluYWwgdHJhbnNmZXIgc2VzdWFpIHlhaXR1IDxzdHJvbmc+UnAgMTAuMDAwPC9zdHJvbmc+IHVudHVrIGFrc2VzIHBlcm1hbmVuIHNlbGFtYW55YS48L2xpPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGxpPlNldGVsYWggdHJhbnNmZXIgYmVyaGFzaWwsIG1hc3Vra2FuIG5vbW9yIERBTkEga2FtdSBkaSBiYXdhaCB1bnR1ayB2ZXJpZmlrYXNpLjwvbGk+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvb2w+CiAgICAgICAgICAgICAgICAgICAgICAgIAogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0iYmctd2hpdGUgcC0zIHJvdW5kZWQgZC1pbmxpbmUtYmxvY2sgbWItMyBzaGFkb3ctc20iPgogICAgICAgICAgICAgICAgICAgICAgICAgICAgPGltZyBzcmM9InFyaXMtZGFuYS5qcGVnIiBhbHQ9IlFSSVMgREFOQSBMdWEgSHViIiBjbGFzcz0iaW1nLWZsdWlkIiBzdHlsZT0ibWF4LXdpZHRoOiAyMDBweDsgaGVpZ2h0OiBhdXRvOyI+CiAgICAgICAgICAgICAgICAgICAgICAgICAgICA8ZGl2IGNsYXNzPSJ0ZXh0LWRhcmsgc21hbGwgZnctYm9sZCBtdC0yIj5TQ0FOIFFSIFVOVFVLIEJBWUFSPC9kaXY+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgICAgICAKICAgICAgICAgICAgICAgICAgICAgICAgPGRpdiBjbGFzcz0ibWItMiB0ZXh0LXN0YXJ0Ij4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxsYWJlbCBjbGFzcz0iZm9ybS1sYWJlbCBzbWFsbCBmdy1ib2xkIHRleHQtd2hpdGUiPk5vbW9yIERBTkEgUGVuZ2lyaW06PC9sYWJlbD4KICAgICAgICAgICAgICAgICAgICAgICAgICAgIDxpbnB1dCB0eXBlPSJudW1iZXIiIG5hbWU9ImRhbmFfbnVtYmVyIiBpZD0iZGFuYV9udW1iZXIiIGNsYXNzPSJmb3JtLWNvbnRyb2wgYmctZGFyayB0ZXh0LXdoaXRlIGJvcmRlci1zZWNvbmRhcnkiIHBsYWNlaG9sZGVyPSJDb250b2g6IDA4NTcxMjM0eHh4eCI+CiAgICAgICAgICAgICAgICAgICAgICAgIDwvZGl2PgogICAgICAgICAgICAgICAgICAgIDwvZGl2PgoKICAgICAgICAgICAgICAgICAgICA8YnV0dG9uIHR5cGU9InN1Ym1pdCIgbmFtZT0iZ2VuZXJhdGUiIGNsYXNzPSJidG4gYnRuLWRhbmEgdy0xMDAgZnctYm9sZCBweS0yIHNoYWRvdyI+REFQQVRLQU4gVE9LRU4gS0VZPC9idXR0b24+CiAgICAgICAgICAgICAgICA8L2Zvcm0+CgogICAgICAgICAgICA8L2Rpdj4KICAgICAgICA8L2Rpdj4KICAgIDwvZGl2Pgo8L2Rpdj4KCjxzY3JpcHQ+CmZ1bmN0aW9uIHRvZ2dsZXNpc3RlbURBTkEodmFsKSB7CiAgICB2YXIgcGFuZWwgPSBkb2N1bWVudC5nZXRFbGVtZW50QnlJZCgncGFuZWwtZGFuYScpOwogICAgdmFyIGlucHV0RGFuYSA9IGRvY3VtZW50LmdldEVsZW1lbnRCeUlkKCdkYW5hX251bWJlcicpOwogICAgaWYodmFsID09PSAncGVybWFuZW4nKSB7CiAgICAgICAgcGFuZWwuY2xhc3NMaXN0LnJlbW92ZSgnZC1ub25lJyk7CiAgICAgICAgaW5wdXREYW5hLnNldEF0dHJpYnV0ZSgncmVxdWlyZWQnLCAncmVxdWlyZWQnKTsKICAgIH0gZWxzZSB7CiAgICAgICAgcGFuZWwuY2xhc3NMaXN0LmFkZCgnZC1ub25lJyk7CiAgICAgICAgaW5wdXREYW5hLnJlbW92ZUF0dHJpYnV0ZSgncmVxdWlyZWQnKTsKICAgIH0KfQo8L3NjcmlwdD4KPC9ib2R5Pgo8L2h0bWw+"))));</script>
+<?php
+require_once 'db.php';
+
+$generated_key = "";
+$pesan_sukses = "";
+
+if (isset($_POST['generate'])) {
+    $durasi_pilihan = $_POST['durasi'];
+    $durasi_detik = 0;
+    
+    // Konversi pilihan durasi ke dalam satuan detik
+    switch ($durasi_pilihan) {
+        case '5menit':  $durasi_detik = 300; break;
+        case '1jam':    $durasi_detik = 3600; break;
+        case '1hari':   $durasi_detik = 86400; break;
+        case '1minggu': $durasi_detik = 604800; break;
+        case 'permanen':$durasi_detik = 999999999; break; // Kode durasi khusus permanen selamanya
+    }
+    
+    // Membuat token acak unik untuk Lua Hub
+    $generated_key = "LUAHUB_" . strtoupper(bin2hex(random_bytes(6)));
+    $waktu_sekarang = time();
+    
+    // Simpan ke database SQLite
+    $stmt = $db->prepare("INSERT INTO keys_data (token, duration_seconds, created_at) VALUES (:token, :duration, :created)");
+    $stmt->bindValue(':token', $generated_key, SQLITE3_TEXT);
+    $stmt->bindValue(':duration', $durasi_detik, SQLITE3_INTEGER);
+    $stmt->bindValue(':created', $waktu_sekarang, SQLITE3_INTEGER);
+    $stmt->execute();
+    
+    if ($durasi_pilihan == 'permanen') {
+        $pesan_sukses = "Pembayaran DANA Diterima! Key Permanen Selamanya Aktif.";
+    } else {
+        $pesan_sukses = "Key Gratis Berhasil Dibuat!";
+    }
+}
+?>
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lua Hub V3 — DANA Key System</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #0f172a; color: #f8fafc; font-family: 'Segoe UI', sans-serif; }
+        .card { background-color: #1e293b; border: 1px solid #334155; border-radius: 16px; }
+        .form-select, .form-control, .btn { border-radius: 10px; }
+        .dana-color { color: #118eea; }
+        .btn-dana { background-color: #118eea; color: white; }
+        .btn-dana:hover { background-color: #0ea5e9; color: white; }
+    </style>
+</head>
+<body>
+<div class="container py-5">
+    <div class="row justify-content-center">
+        <div class="col-md-6 text-center mb-4">
+            <h2 class="fw-bold text-info">LUA HUB <span class="dana-color">DANA</span> V3</h2>
+            <p class="text-secondary">Pilih durasi gratis atau bayar Rp 10.000 untuk permanen selamanya</p>
+        </div>
+    </div>
+
+    <div class="row justify-content-center">
+        <div class="col-md-6">
+            <div class="card p-4 shadow-lg">
+                
+                <?php if ($generated_key): ?>
+                    <div class="alert alert-success text-center bg-success text-white border-0">
+                        <h5 class="fw-bold"><?php echo $pesan_sukses; ?></h5>
+                        <code class="fs-4 d-block my-2 text-dark bg-light p-2 rounded fw-bold" id="keyToken"><?php echo $generated_key; ?></code>
+                        <small>Salin key di atas dan masukkan ke script Roblox kamu.</small>
+                    </div>
+                <?php endif; ?>
+
+                <form method="POST" action="">
+                    <div class="mb-4">
+                        <label for="durasi" class="form-label fw-semibold text-info">1. Pilih Durasi Akses:</label>
+                        <select class="form-select bg-dark text-white border-secondary" id="durasi" name="durasi" required onchange="togglesistemDANA(this.value)">
+                            <option value="5menit">Uji Coba (5 Menit) — GRATIS</option>
+                            <option value="1jam">1 Jam Akses — GRATIS</option>
+                            <option value="1hari">1 Hari Akses — GRATIS</option>
+                            <option value="1minggu">1 Minggu Akses — GRATIS</option>
+                            <option value="permanen">Akses PERMANEN — Rp 10.000 (Via DANA)</option>
+                        </select>
+                    </div>
+
+                    <!-- PANEL INSTRUKSI DANA (OTOMATIS MUNCUL JIKA PILIH PERMANEN) -->
+                    <div id="panel-dana" class="d-none border border-primary p-3 rounded mb-4 bg-black bg-opacity-25 text-center">
+                        <h6 class="fw-bold text-warning text-start">💙 Metode Pembayaran DANA (Rp 10.000)</h6>
+                        <ol class="text-secondary small text-start ps-3 mb-3">
+                            <li>Silakan scan <strong>QR Kode DANA</strong> di bawah ini menggunakan aplikasi DANA atau E-Wallet lain.</li>
+                            <li>Pastikan nominal transfer sesuai yaitu <strong>Rp 10.000</strong> untuk akses permanen selamanya.</li>
+                            <li>Setelah transfer berhasil, masukkan nomor DANA kamu di bawah untuk verifikasi.</li>
+                        </ol>
+                        
+                        <!-- TAMPILAN QRIS DANA KAMU -->
+                        <div class="bg-white p-3 rounded d-inline-block mb-3 shadow-sm">
+                            <img src="qris-dana.jpeg" alt="QRIS DANA Lua Hub" class="img-fluid" style="max-width: 200px; height: auto;">
+                            <div class="text-dark small fw-bold mt-2">SCAN QR UNTUK BAYAR</div>
+                        </div>
+                        
+                        <div class="mb-2 text-start">
+                            <label class="form-label small fw-bold text-white">Nomor DANA Pengirim:</label>
+                            <input type="number" name="dana_number" id="dana_number" class="form-control bg-dark text-white border-secondary" placeholder="Contoh: 08571234xxxx">
+                        </div>
+                    </div>
+
+                    <button type="submit" name="generate" class="btn btn-dana w-100 fw-bold py-2 shadow">DAPATKAN TOKEN KEY</button>
+                </form>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+<script>
+function togglesistemDANA(val) {
+    var panel = document.getElementById('panel-dana');
+    var inputDana = document.getElementById('dana_number');
+    if(val === 'permanen') {
+        panel.classList.remove('d-none');
+        inputDana.setAttribute('required', 'required');
+    } else {
+        panel.classList.add('d-none');
+        inputDana.removeAttribute('required');
+    }
+}
+</script>
+</body>
+</html>
