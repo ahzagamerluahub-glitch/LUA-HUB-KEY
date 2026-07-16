@@ -1,1 +1,61 @@
-<script>document.write(decodeURIComponent(escape(atob("PD9waHAKaGVhZGVyKCdDb250ZW50LVR5cGU6IGFwcGxpY2F0aW9uL2pzb24nKTsKcmVxdWlyZV9vbmNlICcuLi9kYi5waHAnOwoKLy8gUGFzdGlrYW4gcGFyYW1ldGVyIGtleSBkYW4gdXNlcmlkIGRpa2lyaW0gb2xlaCBzY3JpcHQgUm9ibG94CmlmICghaXNzZXQoJF9HRVRbJ2tleSddKSB8fCAhaXNzZXQoJF9HRVRbJ3VzZXJpZCddKSkgewogICAgZWNobyBqc29uX2VuY29kZShbInZhbGlkIiA9PiBmYWxzZSwgIm1lc3NhZ2UiID0+ICJQYXJhbWV0ZXIgdGlkYWsgbGVuZ2thcC4iXSk7CiAgICBleGl0Owp9CgokdG9rZW5faW5wdXQgPSAkX0dFVFsna2V5J107CiR1c2VyaWRfaW5wdXQgPSAkX0dFVFsndXNlcmlkJ107CiR3YWt0dV9zZWthcmFuZyA9IHRpbWUoKTsKCi8vIENhcmkgZGF0YSBrZXkgZGkgZGF0YWJhc2UKJHN0bXQgPSAkZGItPnByZXBhcmUoIlNFTEVDVCAqIEZST00ga2V5c19kYXRhIFdIRVJFIHRva2VuID0gOnRva2VuIik7CiRzdG10LT5iaW5kVmFsdWUoJzp0b2tlbicsICR0b2tlbl9pbnB1dCwgU1FMSVRFM19URVhUKTsKJHJlc3VsdCA9ICRzdG10LT5leGVjdXRlKCk7CiRrZXlfZGF0YSA9ICRyZXN1bHQtPmZldGNoQXJyYXkoU1FMSVRFM19BU1NPQyk7CgppZiAoISRrZXlfZGF0YSkgewogICAgZWNobyBqc29uX2VuY29kZShbInZhbGlkIiA9PiBmYWxzZSwgIm1lc3NhZ2UiID0+ICJLZXkgdGlkYWsgZGl0ZW11a2FuLiJdKTsKICAgIGV4aXQ7Cn0KCi8vIDEuIFZhbGlkYXNpIEFudGktU2hhcmUgKEt1bmNpIEtleSBrZSBVc2VySWQgcGVydGFtYSB5YW5nIHBha2FpKQppZiAoJGtleV9kYXRhWyd1c2VkX2J5X3VzZXJpZCddICE9PSBudWxsICYmICRrZXlfZGF0YVsndXNlZF9ieV91c2VyaWQnXSAhPT0gJHVzZXJpZF9pbnB1dCkgewogICAgZWNobyBqc29uX2VuY29kZShbInZhbGlkIiA9PiBmYWxzZSwgIm1lc3NhZ2UiID0+ICJLZXkgaW5pIHN1ZGFoIGRpZ3VuYWthbiBvbGVoIGFrdW4gUm9ibG94IGxhaW4hIl0pOwogICAgZXhpdDsKfQoKLy8gMi4gSmlrYSBiYXJ1IHBlcnRhbWEga2FsaSBkaXBha2FpIG9sZWggVXNlcklkIGluaSwga3VuY2kgZGF0YW55YSBhZ2FyIHRpZGFrIGJpc2EgZGktc2hhcmUKaWYgKCRrZXlfZGF0YVsndXNlZF9ieV91c2VyaWQnXSA9PT0gbnVsbCkgewogICAgJHVwZGF0ZSA9ICRkYi0+cHJlcGFyZSgiVVBEQVRFIGtleXNfZGF0YSBTRVQgdXNlZF9ieV91c2VyaWQgPSA6dWlkIFdIRVJFIHRva2VuID0gOnRva2VuIik7CiAgICAkdXBkYXRlLT5iaW5kVmFsdWUoJzp1aWQnLCAkdXNlcmlkX2lucHV0LCBTUUxJVEUzX1RFWFQpOwogICAgJHVwZGF0ZS0+YmluZFZhbHVlKCc6dG9rZW4nLCAkdG9rZW5faW5wdXQsIFNRTElURTNfVEVYVCk7CiAgICAkdXBkYXRlLT5leGVjdXRlKCk7Cn0KCi8vIDMuIExPR0lLQSBEVVJBU0kgJiBQRVJNQU5FTiBTRUxBTUFOWUEKLy8gSmlrYSBrb2RlIGR1cmFzaSBkaSBkYXRhYmFzZSBkaXNldCA5OTk5OTk5OTkgKFBha2V0IFBlcm1hbmVuIFNlbGFtYW55YSkKaWYgKCRrZXlfZGF0YVsnZHVyYXRpb25fc2Vjb25kcyddID09IDk5OTk5OTk5OSkgewogICAgZWNobyBqc29uX2VuY29kZShbCiAgICAgICAgInZhbGlkIiA9PiB0cnVlLAogICAgICAgICJkdXJhdGlvbiIgPT4gOTk5OTk5OTk5CiAgICBdKTsKICAgIGV4aXQ7Cn0KCi8vIDQuIEppa2EgYnVrYW4gcGVybWFuZW4gKEdyYXRpc2FuKSwgZ3VuYWthbiBoaXR1bmdhbiBleHBpcmVkIG5vcm1hbAokc2lzYV93YWt0dSA9ICgka2V5X2RhdGFbJ2NyZWF0ZWRfYXQnXSArICRrZXlfZGF0YVsnZHVyYXRpb25fc2Vjb25kcyddKSAtICR3YWt0dV9zZWthcmFuZzsKCmlmICgkc2lzYV93YWt0dSA8PSAwKSB7CiAgICBlY2hvIGpzb25fZW5jb2RlKFsidmFsaWQiID0+IGZhbHNlLCAibWVzc2FnZSIgPT4gIktleSBzdWRhaCBrZWRhbHV3YXJzYS4iXSk7Cn0gZWxzZSB7CiAgICBlY2hvIGpzb25fZW5jb2RlKFsKICAgICAgICAidmFsaWQiID0+IHRydWUsCiAgICAgICAgImR1cmF0aW9uIiA9PiAkc2lzYV93YWt0dQogICAgXSk7Cn0KPz4="))));</script>
+<?php
+header('Content-Type: application/json');
+require_once '../db.php';
+
+// Pastikan parameter key dan userid dikirim oleh script Roblox
+if (!isset($_GET['key']) || !isset($_GET['userid'])) {
+    echo json_encode(["valid" => false, "message" => "Parameter tidak lengkap."]);
+    exit;
+}
+
+$token_input = $_GET['key'];
+$userid_input = $_GET['userid'];
+$waktu_sekarang = time();
+
+// Cari data key di database
+$stmt = $db->prepare("SELECT * FROM keys_data WHERE token = :token");
+$stmt->bindValue(':token', $token_input, SQLITE3_TEXT);
+$result = $stmt->execute();
+$key_data = $result->fetchArray(SQLITE3_ASSOC);
+
+if (!$key_data) {
+    echo json_encode(["valid" => false, "message" => "Key tidak ditemukan."]);
+    exit;
+}
+
+// 1. Validasi Anti-Share (Kunci Key ke UserId pertama yang pakai)
+if ($key_data['used_by_userid'] !== null && $key_data['used_by_userid'] !== $userid_input) {
+    echo json_encode(["valid" => false, "message" => "Key ini sudah digunakan oleh akun Roblox lain!"]);
+    exit;
+}
+
+// 2. Jika baru pertama kali dipakai oleh UserId ini, kunci datanya agar tidak bisa di-share
+if ($key_data['used_by_userid'] === null) {
+    $update = $db->prepare("UPDATE keys_data SET used_by_userid = :uid WHERE token = :token");
+    $update->bindValue(':uid', $userid_input, SQLITE3_TEXT);
+    $update->bindValue(':token', $token_input, SQLITE3_TEXT);
+    $update->execute();
+}
+
+// 3. LOGIKA DURASI & PERMANEN SELAMANYA
+// Jika kode durasi di database diset 999999999 (Paket Permanen Selamanya)
+if ($key_data['duration_seconds'] == 999999999) {
+    echo json_encode([
+        "valid" => true,
+        "duration" => 99999999999999999
+    ]);
+    exit;
+}
+
+// 4. Jika bukan permanen (Gratisan), gunakan hitungan expired normal
+$sisa_waktu = ($key_data['created_at'] + $key_data['duration_seconds']) - $waktu_sekarang;
+
+if ($sisa_waktu <= 0) {
+    echo json_encode(["valid" => false, "message" => "Key sudah kedaluwarsa."]);
+} else {
+    echo json_encode([
+        "valid" => true,
+        "duration" => $sisa_waktu
+    ]);
+}
+?>
